@@ -4,5 +4,5 @@ My name is Lukman Fashina. I am a PhD student in the [Geography and Sustainabili
 ![](https://cdn.esawebb.org/archives/images/screen/potm2209a.jpg)
 <!-- ![](URL) -->
 
-<!-- ![](Images\LiDAR Field work\LiDAR Field 1.jpg) -->
+<!-- ![](Images/) -->
 
