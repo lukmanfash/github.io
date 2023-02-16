@@ -1,15 +1,6 @@
 # lukmanfash.github.io
 Personal Website
 
-## Education Background
-M.S.  Geosciences (Geospatial Analysis), East Tennessee State University (2022)
-
-M.S.  Sustainable Water Management (Water, Energy, and Food) Tufts University (2020)
-
-M.Sc. Petroleum Geoscience, Pan African University (2016)
-
-B.Sc. Geology, University of Ibadan (2012)
-
 ### Welcome to my Page!
 
 ## Introduction
@@ -26,6 +17,15 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 - 😄 Pronouns: He/Him/His
 
 **lukmanfash/lukmanfash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Education Background
+M.S.  Geosciences (Geospatial Analysis), East Tennessee State University (2022)
+
+M.S.  Sustainable Water Management (Water, Energy, and Food) Tufts University (2020)
+
+M.Sc. Petroleum Geoscience, Pan African University (2016)
+
+B.Sc. Geology, University of Ibadan (2012)
 
 ## Employment
 - [University of Tennessee, Knoxville](https://geography.utk.edu/about-us/people/graduate-students/)
