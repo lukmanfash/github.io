@@ -3,8 +3,11 @@ Personal Website
 
 ## Education Background
 M.S.  Geosciences (Geospatial Analysis), East Tennessee State University (2022)
+
 M.S.  Sustainable Water Management (Water, Energy, and Food) Tufts University (2020)
+
 M.Sc. Petroleum Geoscience, Pan African University (2016)
+
 B.Sc. Geology, University of Ibadan (2012)
 
 ### Welcome to my Page!
